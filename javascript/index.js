@@ -1,0 +1,4 @@
+function printLetter()
+{
+    window.print();
+}
